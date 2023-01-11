@@ -1,0 +1,19 @@
+{
+  "name": "laurapregonero",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi , I'm Laura Pregonero</h1> <h3 align=\"center\">It's a pleasure to have you on my page or Github. I have been a Frontend developer for two years, I have good management of react, sass, css, html, Tailwind among others, on the other hand, I have been a graphic designer since I was 12 years old, I know illustration, animation, montages and branding. My handling of the adobe suite is magnificent. I am currently going to be 18 years old and it will be a pleasure for you to know a little more about me</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurapregonero/laurapregonero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurapregonero/laurapregonero/issues"
+  },
+  "homepage": "https://github.com/laurapregonero/laurapregonero#readme"
+}
