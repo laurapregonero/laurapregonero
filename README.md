@@ -14,7 +14,9 @@
 <img align="left" src="./BANNERPRINCIPALLINKEDLN.png">
 
 
-<h3 align="center">It's a pleasure to have you on my page or Github. I have been a Frontend developer for two years, I have good management of react, sass, css, html, Tailwind among others, on the other hand, I have been a graphic designer since I was 12 years old, I know illustration, animation, montages and branding. My handling of the adobe suite is magnificent. I am currently going to be 18 years old and it will be a pleasure for you to know a little more about me</h3>
+<h3 align="center">It's a pleasure to have you on my page or Github. I have been a Frontend developer for two years, I have good management of react, sass, css, html, Tailwind among others, on the other hand, I have been a graphic designer since I was 11 years old, I know illustration, animation, montages and branding. 
+  
+My handling of the adobe suite is magnificent. I am currently going to be 18 years old and it will be a pleasure for you to know a little more about me</h3>
 
 - 🔭 I’m currently working on [Graphic Designer](https://www.instagram.com/dr.arenasantiedad/)
 
